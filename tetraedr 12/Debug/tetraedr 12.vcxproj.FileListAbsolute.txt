@@ -1,0 +1,5 @@
+C:\Users\Дэнчик\source\repos\tetraedr 12\Debug\tetraedr 12.vcxproj.CopyComplete
+C:\Users\Дэнчик\source\repos\tetraedr 12\Debug\tetraedr 12.exe
+C:\Users\Дэнчик\source\repos\tetraedr 12\Debug\glew32d.dll
+C:\Users\Дэнчик\source\repos\tetraedr 12\Debug\sfml-system-d-2.dll
+C:\Users\Дэнчик\source\repos\tetraedr 12\Debug\sfml-window-d-2.dll

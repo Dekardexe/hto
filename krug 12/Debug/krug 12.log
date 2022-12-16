@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Дэнчик\source\repos\krug 12\Source.cpp(60,29): warning C4305: инициализация: усечение из "double" в "GLfloat"
+C:\Users\Дэнчик\source\repos\krug 12\Source.cpp(251,28): warning C4305: инициализация: усечение из "double" в "GLfloat"
+  krug 12.vcxproj -> C:\Users\Дэнчик\source\repos\krug 12\Debug\krug 12.exe

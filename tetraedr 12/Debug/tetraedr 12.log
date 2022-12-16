@@ -1,0 +1,22 @@
+﻿  Source.cpp
+C:\Users\Дэнчик\source\repos\tetraedr 12\Source.cpp(59,18): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\Дэнчик\source\repos\tetraedr 12\Source.cpp(63,36): warning C4838: Преобразование из "double" в "GLfloat" требует сужающего преобразования.
+C:\Users\Дэнчик\source\repos\tetraedr 12\Source.cpp(63,36): warning C4244: инициализация: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\Дэнчик\source\repos\tetraedr 12\Source.cpp(67,36): warning C4838: Преобразование из "double" в "GLfloat" требует сужающего преобразования.
+C:\Users\Дэнчик\source\repos\tetraedr 12\Source.cpp(67,36): warning C4244: инициализация: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\Дэнчик\source\repos\tetraedr 12\Source.cpp(67,52): warning C4838: Преобразование из "double" в "GLfloat" требует сужающего преобразования.
+C:\Users\Дэнчик\source\repos\tetraedr 12\Source.cpp(67,52): warning C4244: инициализация: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\Дэнчик\source\repos\tetraedr 12\Source.cpp(70,36): warning C4838: Преобразование из "double" в "GLfloat" требует сужающего преобразования.
+C:\Users\Дэнчик\source\repos\tetraedr 12\Source.cpp(70,36): warning C4244: инициализация: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\Дэнчик\source\repos\tetraedr 12\Source.cpp(71,36): warning C4838: Преобразование из "double" в "GLfloat" требует сужающего преобразования.
+C:\Users\Дэнчик\source\repos\tetraedr 12\Source.cpp(71,36): warning C4244: инициализация: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\Дэнчик\source\repos\tetraedr 12\Source.cpp(71,52): warning C4838: Преобразование из "double" в "GLfloat" требует сужающего преобразования.
+C:\Users\Дэнчик\source\repos\tetraedr 12\Source.cpp(71,52): warning C4244: инициализация: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\Дэнчик\source\repos\tetraedr 12\Source.cpp(74,36): warning C4838: Преобразование из "double" в "GLfloat" требует сужающего преобразования.
+C:\Users\Дэнчик\source\repos\tetraedr 12\Source.cpp(74,36): warning C4244: инициализация: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\Дэнчик\source\repos\tetraedr 12\Source.cpp(75,36): warning C4838: Преобразование из "double" в "GLfloat" требует сужающего преобразования.
+C:\Users\Дэнчик\source\repos\tetraedr 12\Source.cpp(75,36): warning C4244: инициализация: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\Дэнчик\source\repos\tetraedr 12\Source.cpp(75,52): warning C4838: Преобразование из "double" в "GLfloat" требует сужающего преобразования.
+C:\Users\Дэнчик\source\repos\tetraedr 12\Source.cpp(75,52): warning C4244: инициализация: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\Дэнчик\source\repos\tetraedr 12\Source.cpp(190,18): warning C4305: инициализация: усечение из "double" в "float"
+  tetraedr 12.vcxproj -> C:\Users\Дэнчик\source\repos\tetraedr 12\Debug\tetraedr 12.exe
